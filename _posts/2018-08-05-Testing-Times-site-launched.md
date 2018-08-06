@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Testing Times Launches Site"
+title: "Soft skills of a 21st Century QA"
 date: 2018-08-05
 ---
 
